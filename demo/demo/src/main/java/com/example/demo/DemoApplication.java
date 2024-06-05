@@ -5,6 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.example.demo.models.campeon;
+import com.example.demo.models.campeonhasinteraccion;
 import com.example.demo.models.counter;
 import com.example.demo.models.especie;
 import com.example.demo.models.interaccion;
